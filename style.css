@@ -1,0 +1,22 @@
+body {
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+	background-image: url("bg.jpg");
+	background-size: cover;
+}
+
+li {
+	display: inline;
+	list-style-type: none;
+	padding: 5px;
+}
+
+ul {
+	font-family: "Courier New", Courier, monospace;
+	font-size: 20px;
+	display: flex;
+	justify-content: space-around;
+}
+
+a {
+	text-decoration: none;
+}
