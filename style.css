@@ -1,7 +1,7 @@
 body {
 	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
 	background-image: url("bg.jpg");
-	background-no-repeat; 
+	background-repeat: no-repeat; 
 	background-size: cover;
 }
 
