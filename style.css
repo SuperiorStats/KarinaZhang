@@ -3,7 +3,6 @@ body {
 	background-image: url("bg.jpg");
 	background-repeat: no-repeat;
 	background-size: cover;
-	box-shadow: inset 0 0 0 1000px rgba(255,255,255,.3);
 	background-position: center center;
 	background-attachment: fixed;
 }
@@ -31,4 +30,15 @@ footer {
 	left: 0;
 	padding: 2rem;
 	text-align: center;
+}
+
+html {
+	box-shadow: inset 0 0 0 1000px rgba(255,255,255,.2);
+}
+
+html, body {
+	width: 100%;
+	height: 100%;
+	padding: 0px;
+	margin: 0px;
 }
